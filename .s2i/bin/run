@@ -1,0 +1,6 @@
+#!/bin/bash -e
+
+echo "Calling OWN run WRAPPER"
+
+exec /usr/libexec/s2i/assemble/run
+
