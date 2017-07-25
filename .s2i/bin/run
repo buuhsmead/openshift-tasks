@@ -2,5 +2,5 @@
 
 echo "Calling OWN run WRAPPER"
 
-exec /usr/local/s2i/assemble/run
+exec /usr/local/s2i/run
 
